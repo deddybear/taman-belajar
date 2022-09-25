@@ -1,0 +1,14 @@
+.media-list {
+    padding-left: 0;
+    list-style: none;
+}
+
+.media {
+    background-color: #fff;
+}
+
+.media-body {
+    margin: auto;
+    display: table-cell;
+    vertical-align: top;
+}

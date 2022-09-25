@@ -1,0 +1,120 @@
+body {
+    background-color: #d5d5d5;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+p {
+    margin: 0 0 10.5px;
+}
+
+.fa-angle-double-up {
+    margin: 0;
+    position: relative;
+    left: 19px;
+    top: 15px;
+    font-size: 19px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.nav-item {
+    margin-right: 30px;
+}
+
+.no-border {
+    border: none !important;
+}
+
+.right-pull {
+    padding-right: 10px;
+}
+
+.slider {
+    margin: 20px 0;
+}
+
+.post-header {
+    background-color: #2780e3;
+    font-weight: bold;
+    color: #fff;
+}
+
+.header {
+    background-color: #1967be;
+    font-size: 17px;
+    color: #FFF;
+    margin-bottom: 20px;
+}
+
+.header-img {
+    margin-right: 30px;
+    width: 130px;
+    height: 130px;
+    float: left;
+}
+
+.content {
+    padding: 20px 30px;
+    background-color: #fff;
+}
+
+.thumbnail {
+    display: block;
+    padding: 4px;
+    margin-bottom: 21px;
+    line-height: 1.42857143;
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 0;
+    -webkit-transition: border 0.2s ease-in-out;
+    -o-transition: border 0.2s ease-in-out;
+    transition: border 0.2s ease-in-out;
+}
+
+.caption {
+    padding: 9px;
+}
+
+.entry-title {
+    margin-bottom: 15px;
+}
+
+.entry-footer {
+    margin-bottom: 15px;
+}
+
+.posted {
+    margin-right: 15px;
+}
+
+#return-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #2780e3;
+    color: #fff !important;
+    width: 50px;
+    height: 50px;
+    display: block;
+    text-decoration: none;
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    border-radius: 35px;
+    display: none;
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+
+}
+
+#return-to-top:hover {
+    background-color: #3fb618;
+}
